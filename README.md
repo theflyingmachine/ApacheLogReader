@@ -1,11 +1,10 @@
 #            Apache LogReader - By Eric Abraham Kalloor
- 	   https://github.com/theflyingmaching/ApacheLogReader
-========================================================================
+https://github.com/theflyingmaching/ApacheLogReader
 
 Apache LogReader is a shell script which runs through apache web server access logs and provides meaningful summary about the visitors.
 
 # Usage: 
->> Apache LogReader can be executed by calling the readlog.sh script
+> Apache LogReader can be executed by calling the readlog.sh script
 
       example: ./readlog.sh
 
