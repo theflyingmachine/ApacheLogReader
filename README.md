@@ -10,13 +10,13 @@ Apache LogReader is a shell script which runs through apache web server access l
       example: ./readlog.sh
 
 # Pro-tips: 
->> For frequent access, set the script as alias by adding bellow line in ~/.bashrc file.
+> For frequent access, set the script as alias by adding bellow line in ~/.bashrc file.
 
       alias <aliasname>='bash <path/to/script>/readlog.sh'
 <aliasname> and <path/to/script> must be modified as per your taste.
 
 
->>For getting the visitor report via email every day, set this script as cronjob and configure your email.
+> For getting the visitor report via email every day, set this script as cronjob and configure your email.
 
 
 # Sample Output:
